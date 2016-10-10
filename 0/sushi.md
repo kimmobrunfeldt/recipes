@@ -17,8 +17,6 @@ Having these supplies help:
 
 ### Rice
 
-**Ingredients**
-
 * 625ml cold water
 * 500g sushi rice
 * 100g plain rice vinegar (no sugar included)
