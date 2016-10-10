@@ -3,58 +3,19 @@
 This recipe cooks a sushi meal for ~4-5 persons. It takes ~1-2 hours and you are
 ready to eat.
 
-## Ingredients
+Having these supplies help:
 
-Make sure you have these ingredients available when starting to cook. Also have
-a few supplies:
-
-* sharp knife
-* sushi rolling bamboo mat
 * a big enough pot for sushi rice cooking with a lid, preferably teflon coated
 
   Or a rice cooker.
 
-#### Sushi rice
-
-* 500g sushi rice
-* 100g plain rice vinegar (without sugar included)
-* 150g white sugar
-* salt
-
-#### Sushi rolls / nigiri fillings
-
-* 300-400g D-cut salmon (fishbones removed).
-
-    Try to find a solid piece.
-
-* 10 nori sheets (seaweed)
-* soy sauce for dipping. I prefer [Kikkoman Sweet Soy Sauce](http://www.kikkoman.com.au/sites/default/files/styles/product_default/public/product_image/sweet-soy-sauce-250ml.png?itok=8tSA-7LU)
-
-* mayonnaise
-* cucumber
-* carrot
 * sharp knife
-
-**Optional**
-
-* sesam seeds
-* scallion
+* sushi rolling bamboo mat
 
 
-#### Special tuna filling for sushi rolls
+## Ingredients
 
-* 150g canned tuna chunks in water
-* 50-100ml mayonnaise
-* sweet chili sauce
-* sunflower (or other) oil
-
-**Optional**
-
-* lime, for juice
-* soy sauce
-
-
-## Rice
+### Rice
 
 **Ingredients**
 
@@ -64,6 +25,41 @@ a few supplies:
 * 110g white sugar
 * 2 teaspoons of salt (10ml)
 
+
+### Sushi rolls / nigiri fillings
+
+* 300-400g D-cut salmon (fishbones removed).
+
+    Try to find a solid trunk piece. Tail part works for sushi rolls but isn't
+    good when you are making nigiris.
+
+* 10 - 20 nori sheets (seaweed)
+* soy sauce for dipping. I prefer [Kikkoman Sweet Soy Sauce](http://www.kikkoman.com.au/sites/default/files/styles/product_default/public/product_image/sweet-soy-sauce-250ml.png?itok=8tSA-7LU)
+
+* mayonnaise
+* cucumber
+* carrot
+
+**Optional**
+
+* sesam seeds
+* scallion
+
+
+### Tuna filling for sushi rolls
+
+* 150g canned tuna chunks in water
+* 60ml (4 tbsp) mayonnaise
+* 30ml (2 tbsp) sweet chili sauce
+* 10ml (2 tsp) soy sayce
+
+**Optional**
+
+* lime wedge, for juice
+* sunflower oil
+
+
+## Preparing rice
 
 Rinse sushi rice at least 5 times or until the water runs clean. [Why?](https://www.youtube.com/watch?v=5IU_yH8SMsc). [Example of rinsing.](https://youtu.be/IqCAVS4_obw?t=367)
 Let the rice dry while preparing rice vinegar mix.
@@ -84,6 +80,17 @@ too much. Pour the rice vinegar mix on the rice evenly.
 Let the rice cool off. It should be at body temperature, and shouldn't feel too warm in your hands.
 If you are in a hurry, it can still be a bit warm - don't worry.
 
-## Salmon
+## Preparing sushi roll fillings
 
-https://youtu.be/bFoIJCDEqGw?t=80
+* Peel the carrot and cut it to sticks. Boil the carrots a bit to soften them
+* Cut cucumber to sticks and optionally remove most of the watery center.
+
+### Cut salmon
+
+How to cut salmon: https://youtu.be/bFoIJCDEqGw?t=80. This was the closest
+video I found, but you shouldn't leave any brown flesh to salmon when using
+it for nigiris.
+
+### Prepare tuna mix
+
+Just mix all ingredients together well.
